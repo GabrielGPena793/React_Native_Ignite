@@ -6,7 +6,7 @@ import Home from "./src/pages/Home";
 export default function App(){
   return(
     <>
-      <StatusBar style="light"/>
+      <StatusBar  style="light"/>
       <Home />
     </>
   )
